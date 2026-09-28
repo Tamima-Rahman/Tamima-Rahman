@@ -39,6 +39,8 @@ Exploring AI/ML and developing research skills through practical learning and ex
 ### 🎨 Creative Work
 Graphic designer with experience creating visual assets for university organizations and events using **Adobe Photoshop & Illustrator**.
 
+### 🤝 Volunteer at CodeClub
+
 ### 📫 Connect
 **LinkedIn:** tamima-rahman-tamanna
 **Email:** tamimarahmantamanna@gmail.com
