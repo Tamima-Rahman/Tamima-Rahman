@@ -44,8 +44,3 @@ Graphic designer with experience creating visual assets for university organizat
 ### 📫 Connect
 **LinkedIn:** tamima-rahman-tamanna
 **Email:** tamimarahmantamanna@gmail.com
-
-⭐ *Learn • Build • Solve • Create*
-
-
-
