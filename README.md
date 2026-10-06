@@ -18,7 +18,7 @@ I enjoy building practical software projects, solving problems, and exploring AI
 | Project                                                              | Technologies        |
 | -------------------------------------------------------------------- | ------------------- |
 | 📦 **Inventory Management System**                                   | C++                 |
-| 🏥 **Smart Online Medical Consultation & Patient Management System** | Java · MySQL · JDBC |
+| 🏥 **Online Medical Consultation System**                            | Java · MySQL · JDBC |
 
 
 ### 🧩 Problem Solving
